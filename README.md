@@ -1,2 +1,2 @@
-# CovidPrediction
-Model and DataSet of various countries to predict total Cases, Deaths, Age-wise Cases, deaths, Infection Rate, Death Rate, Recovery Rate of India and other countries.
+# COVID19_prediction
+Prediction of Total Cases,Death Cases,Recovered Cases Country-wise and Prediction of Infection rate and death rate
